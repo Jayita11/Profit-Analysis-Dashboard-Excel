@@ -16,6 +16,9 @@ The dataset used in this project is stored in a folder and comprises transaction
 ## Dashboard Components
 - **Cumulative Sales**: Visualizes the cumulative sales from the beginning of the transaction year to the last transactional year (2021) and updates dynamically with new data.
 - **Top 3 Profitable Customers**: Identifies the three most profitable customers, showcasing their contributions to company growth.
+
+  ![unnamed-12](https://github.com/user-attachments/assets/b7f67f49-69ad-4115-b10c-a761c2041b7a)
+
 - **Top 3 Least Profitable Customers**: Highlights the three least profitable customers, providing insights into potential areas for improvement and customer engagement strategies.
 - **Yearly Profit and Growth**: Displays yearly profit figures and growth percentages to track overall financial performance.
 - **Monthly Profit Trend**: Analyzes the trend of profits on a monthly basis to identify seasonal patterns and monthly performance fluctuations.
