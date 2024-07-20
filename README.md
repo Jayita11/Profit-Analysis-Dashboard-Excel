@@ -41,6 +41,7 @@ The dataset used in this project is stored in a folder and comprises transaction
 - **Active Filters**: Includes interactive filters for country, products, and months. These filters allow users to quickly select options to consolidate data for one or multiple regions and adjust the analysis period. This enhances the dashboard's interactivity and flexibility.
 
   ![unnamed-20](https://github.com/user-attachments/assets/e08dc72e-5f34-4dcb-9c92-f8be12768232)
+  
   ![unnamed-21](https://github.com/user-attachments/assets/afd4d32d-c4e8-435a-990f-58fee9566e22)  ![unnamed-22](https://github.com/user-attachments/assets/26e96acd-e198-43c6-9e55-17e1ce4fc93f)
 
 
