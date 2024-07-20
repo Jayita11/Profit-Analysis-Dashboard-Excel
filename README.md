@@ -20,6 +20,9 @@ The dataset used in this project is stored in a folder and comprises transaction
   ![unnamed-12](https://github.com/user-attachments/assets/b7f67f49-69ad-4115-b10c-a761c2041b7a)
 
 - **Top 3 Least Profitable Customers**: Highlights the three least profitable customers, providing insights into potential areas for improvement and customer engagement strategies.
+
+  ![unnamed-15](https://github.com/user-attachments/assets/cd0cdf7f-32ce-49de-a7c1-1326819380c6)
+
 - **Yearly Profit and Growth**: Displays yearly profit figures and growth percentages to track overall financial performance.
 - **Monthly Profit Trend**: Analyzes the trend of profits on a monthly basis to identify seasonal patterns and monthly performance fluctuations.
 
