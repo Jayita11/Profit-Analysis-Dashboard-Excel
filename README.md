@@ -24,6 +24,9 @@ The dataset used in this project is stored in a folder and comprises transaction
   ![unnamed-15](https://github.com/user-attachments/assets/cd0cdf7f-32ce-49de-a7c1-1326819380c6)
 
 - **Yearly Profit and Growth**: Displays yearly profit figures and growth percentages to track overall financial performance.
+
+  ![unnamed-16](https://github.com/user-attachments/assets/d106d0e2-c4a2-477a-9261-db61a13922f7)
+
 - **Monthly Profit Trend**: Analyzes the trend of profits on a monthly basis to identify seasonal patterns and monthly performance fluctuations.
 
   ![unnamed-13](https://github.com/user-attachments/assets/70f563e8-077c-40e2-a06e-326edce00c7a)
