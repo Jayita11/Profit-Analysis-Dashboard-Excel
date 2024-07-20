@@ -54,11 +54,14 @@ The dataset used in this project is stored in a folder and comprises transaction
   
   ![unnamed-19](https://github.com/user-attachments/assets/6c4f2919-fdc3-4742-841f-454d406875b1)
 
+## Dashboard Overview
 
 ## Technical Skills
-- **DAX (Data Analysis Expressions)**: Utilized for complex calculations and data manipulation within Power BI.
+- **DAX (Data Analysis Expressions)**: Utilized for complex calculations and data manipulation within Excel.
+- **Power Query**: Used for extracting and transforming data before analysis.
 - **Power Pivot**: Used for creating relationships between Fact and Dim Tables, enabling seamless data integration and analysis.
-- **Power BI**: Employed for designing the interactive dashboard and visualizing key metrics and trends.
+- **Excel**: Employed for designing the interactive dashboard and visualizing key metrics and trends.
+- **VBA and Macros**: Automated manual processes to improve efficiency.
 
 ## Soft Skills
 - **Analytical Thinking**: Applied analytical skills to interpret data and derive meaningful insights.
@@ -66,6 +69,4 @@ The dataset used in this project is stored in a folder and comprises transaction
 - **Problem Solving**: Identified and addressed challenges in data integration and dashboard design.
 - **Communication**: Effectively communicated findings and insights through a well-structured dashboard.
 
-## Usage
-To use this project, download the repository from GitHub and open the Power BI file. Ensure that the dataset is correctly linked to the Fact Table and Dim Tables in Power Pivot. Use the interactive filters for country, products, and months to explore the data dynamically.
 
