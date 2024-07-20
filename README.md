@@ -40,6 +40,11 @@ The dataset used in this project is stored in a folder and comprises transaction
 
 - **Additional Insights**: Visualizing critical KPIs with easy-to-read cards for smart and rapid decision-making, such as the number of transactions, total customers, current items, COGS, revenue, profit, quantity sold, and regions the company sells to.
 
+  ![unnamed-18](https://github.com/user-attachments/assets/2b82bb59-7ee9-4611-b32f-2006b7e26ffd)
+  
+  ![unnamed-19](https://github.com/user-attachments/assets/6c4f2919-fdc3-4742-841f-454d406875b1)
+
+
 ## Technical Skills
 - **DAX (Data Analysis Expressions)**: Utilized for complex calculations and data manipulation within Power BI.
 - **Power Pivot**: Used for creating relationships between Fact and Dim Tables, enabling seamless data integration and analysis.
