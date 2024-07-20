@@ -55,6 +55,13 @@ The dataset used in this project is stored in a folder and comprises transaction
   ![unnamed-19](https://github.com/user-attachments/assets/6c4f2919-fdc3-4742-841f-454d406875b1)
 
 ## Dashboard Overview
+ ![unnamed-23](https://github.com/user-attachments/assets/6bf44b5e-a859-45db-b96a-66e314843a1f)
+ 
+ ![Animation1-2](https://github.com/user-attachments/assets/34a9811f-cbb1-4587-a3d3-44d97c84a94b)
+ 
+ ![Animation2-2](https://github.com/user-attachments/assets/8acf1eeb-1488-422d-b00b-a115a7ba817b)
+ 
+ ![Animation3](https://github.com/user-attachments/assets/ab1019a9-1956-44f2-8080-717fb17f84ae)
 
 ## Technical Skills
 - **DAX (Data Analysis Expressions)**: Utilized for complex calculations and data manipulation within Excel.
