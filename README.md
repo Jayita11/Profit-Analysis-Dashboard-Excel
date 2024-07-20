@@ -38,7 +38,7 @@ The dataset used in this project is stored in a folder and comprises transaction
 
   ![unnamed-14](https://github.com/user-attachments/assets/91bea56c-6ce6-479e-ab9a-3a9454a39816)
 
-  - **Active Filters**: Includes interactive filters for country, products, and months. These filters allow users to quickly select options to consolidate data for one or multiple regions and adjust the analysis period. This enhances the dashboard's interactivity and flexibility.
+- **Active Filters**: Includes interactive filters for country, products, and months. These filters allow users to quickly select options to consolidate data for one or multiple regions and adjust the analysis period. This enhances the dashboard's interactivity and flexibility.
 
 
 - **Additional Insights**: Visualizing critical KPIs with easy-to-read cards for smart and rapid decision-making, such as the number of transactions, total customers, current items, COGS, revenue, profit, quantity sold, and regions the company sells to.
