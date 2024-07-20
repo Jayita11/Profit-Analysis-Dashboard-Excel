@@ -14,7 +14,7 @@ The dataset used in this project is stored in a folder and comprises transaction
 5. **Dashboard Creation**: Designed an interactive dashboard using Power BI with filters for country, products, and months to enable dynamic data analysis.
 
 ## Dashboard Components
-- **Cumulative Sales**: Visualizes the cumulative sales from the beginning of the transaction year to the last transactional year (2021) and updates dynamically with new data.
+- **Cumulative Profit**: Visualizes the cumulative profit from the beginning of the transaction year to the last transactional year (2021) and updates dynamically with new data.
 - **Top 3 Profitable Customers**: Identifies the three most profitable customers, showcasing their contributions to company growth.
 
   ![unnamed-12](https://github.com/user-attachments/assets/b7f67f49-69ad-4115-b10c-a761c2041b7a)
