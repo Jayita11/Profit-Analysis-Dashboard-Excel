@@ -26,6 +26,9 @@ The dataset used in this project is stored in a folder and comprises transaction
   ![unnamed-13](https://github.com/user-attachments/assets/70f563e8-077c-40e2-a06e-326edce00c7a)
 
 - **Quarterly Profit Trend**: Examines profit trends on a quarterly basis for a broader view of financial performance across the year.
+
+  ![unnamed-14](https://github.com/user-attachments/assets/91bea56c-6ce6-479e-ab9a-3a9454a39816)
+
 - **Additional Insights**: Includes the number of transactions, total customers, product count, and the number of countries the company sells to.
 
 ## Technical Skills
